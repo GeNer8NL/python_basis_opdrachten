@@ -2,6 +2,6 @@
 # Naam student:
 # Groep:
 
-# Hier komt je code...
+# Hier komt je code..idsjfkjds.
 
 my_list = ...
