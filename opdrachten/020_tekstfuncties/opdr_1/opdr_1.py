@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student:Arjan Mast
+# Groep:ITX 1
 
 # Hier komt je code...
 
