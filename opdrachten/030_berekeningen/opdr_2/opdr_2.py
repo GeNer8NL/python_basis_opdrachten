@@ -4,7 +4,7 @@
 
 # Hier komt je code...
 
-#Deze code kon veel efficienter dan een vaste waarde. Daarom heb ik een interactieve calculator gemaakt
+# Deze code kon veel efficienter dan een vaste waarde. Daarom heb ik een interactieve calculator gemaakt
 
 
 Eenheid = input("In welke eenheid rekenen we? Voor Celsius type C. Voor Fahrenheit type F: ")
