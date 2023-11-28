@@ -19,7 +19,7 @@ elif Eenheid == "F" :
     Fahrenheit = (f-32) * 5/9
     print("dat is", round(Fahrenheit), "Graden Celsius")
 else:
-    print("Ik begrijp U niet. Probeer het een hoofdletter")
+    print("Ik begrijp U niet. Probeer het met een hoofdletter")
 
 
 
