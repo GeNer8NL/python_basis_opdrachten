@@ -19,6 +19,9 @@ def Eind():
         if confirm == "Y":
             print("Veel plezier")
             break
-        else:
+        elif confirm == "N":
             return get_input(), Eind()
+        else:
+            print("Gebruik alleen Y of N in hoofdletters")
+            return Eind()
 Eind()
