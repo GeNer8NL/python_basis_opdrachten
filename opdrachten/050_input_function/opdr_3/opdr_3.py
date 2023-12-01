@@ -1,6 +1,6 @@
 # Opdracht 3 input functie
-# Naam student:
-# Groep:
+# Naam student: Arjan Mast
+# Groep: ITX1
 
 # Hier komt je code...
 def get_input():
@@ -21,5 +21,4 @@ def Eind():
             break
         else:
             return get_input(), Eind()
-
 Eind()

@@ -1,6 +1,6 @@
 # Opdracht 3 tekstfuncties
-# Naam student:
-# Groep:
+# Naam student:Arjan Mast
+# Groep:ITX1
 
 # Hier komt je code...
 x = 1

@@ -1,6 +1,6 @@
 # Opdracht 2 lists
-# Naam student:
-# Groep:
+# Naam student:Arjan Mast
+# Groep:ITX1
 
 
 rivier_info ={

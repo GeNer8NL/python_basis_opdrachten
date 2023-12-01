@@ -1,6 +1,6 @@
 # Opdracht 1 lists
-# Naam student:
-# Groep:
+# Naam student:Arjan Mast
+# Groep:ITX1
 
 
 dic1 = "id", 1, "Dennis", "Garcia"
