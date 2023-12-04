@@ -1,6 +1,6 @@
 # Opdracht 2 loops
-# Naam student:
-# Groep:
+# Naam student:Arjan Mast
+# Groep:ITX1
 
 # Hier komt je code...
 
